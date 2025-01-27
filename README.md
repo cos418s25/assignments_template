@@ -82,4 +82,4 @@ As you complete parts of the assignments (and begin future assignments) we'll as
 
 ### Stepping into Assignment 1-1
 
-Now it's time to go to the [assignment 1-1](assignment1-1) folder to begin your adventure!
+Now it's time to go to the assignment 1-1 folder to begin your adventure!
